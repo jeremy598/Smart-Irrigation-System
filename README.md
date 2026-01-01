@@ -14,5 +14,5 @@ using a microcontroller, soil moisture sensor, relay module, and water pump.
 - Arduino (Microcontroller Programming)
 
 ## Author
-[Group 11 Robotics Project]
+[Group 11 Robotics Project members]
 
